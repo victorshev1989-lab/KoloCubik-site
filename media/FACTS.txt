@@ -1,0 +1,12 @@
+KoloCubik
+Developer and copyright owner: Viktor Shevchenko
+Public support: shevchenkoviktordoc@gmail.com
+Platform: iPhone, iOS 17+
+Native SwiftUI and SceneKit ring / 3D cube puzzle
+3 starting levels; 20 challenges; 7 visual themes
+Offline gameplay and solver; local progress; no player account
+No advertising, tracking SDK, subscription or in-app purchase in current app
+Hint: preview on first tap, apply on second tap
+Publication: being prepared for App Store; no public download link yet
+Screenshots captured from the real app; artwork in media kit
+Website: https://victorshev1989-lab.github.io/KoloCubik-site/

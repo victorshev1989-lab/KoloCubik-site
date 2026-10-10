@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://victorshev1989-lab.github.io/KoloCubik-site/sitemap.xml
